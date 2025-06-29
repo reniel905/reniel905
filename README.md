@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a passionate developer who builds practical and impact
 - **Skilled in** `Java`, `JavaScript`, `TypeScript`, `C#`, `Python`, `React`, `Next.js`, `Android (Java)`, and more.
 - Based in the **Philippines 🇵🇭**
 
-### 🏆 Awards & Achievements
+## 🏆 Awards & Achievements
 
 - 🥈 2nd Runner Up – STI College Tagisan ng Talino: CODEFEST 2025 Cluster Level
 - 🏅 Champion - STI College Marikina Tagisan ng Talino: CODEFEST 2025 Local Level
