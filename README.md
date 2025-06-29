@@ -51,7 +51,7 @@ Welcome to my GitHub! I'm a passionate developer who builds practical and impact
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
 </p>
 
-## Let's Connect
+## Let's Connect!
 💼 LinkedIn: <a href="">Reniel Baldove</a>
 
 📧 Email: baldove.reniel905@gmail.com
