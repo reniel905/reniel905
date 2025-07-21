@@ -2,6 +2,8 @@
 
 **`Full Stack & Android Developer | Windows App Builder | Problem Solver`**
 
+## Open for system building/programming commissions
+
 Welcome to my GitHub! I'm a passionate developer who builds practical and impactful applications—from smooth user interfaces in **React**, to native **Android apps** in Java, and even **Windows desktop apps** using C# and WinForms. I love turning ideas into working solutions.
 
 
