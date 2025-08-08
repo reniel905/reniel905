@@ -67,5 +67,5 @@ Welcome to my GitHub! I'm a passionate developer who builds practical and impact
 
 ## Let's Connect!
 - 💼 LinkedIn: www.linkedin.com/in/reniel-baldove-331b10216
-- 📧 Email: baldove.reniel905@gmail.com
+- 📧 Email: reniel.dev@gmail.com
 - 🌐 Portfolio Website (Coming Soon)
