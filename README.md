@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Reniel Baldove!
+# 👋 Hi, I'm Reniel Baldove! ![Looking for Internship](https://img.shields.io/badge/Looking%20for-Internship-blue?style=flat-square)
 
-**`Full Stack & Android Developer | Windows App Builder | Problem Solver`**
+**`Full Stack & Android Developer`**
 
-![Open for commissions](https://img.shields.io/badge/Open%20for%20Commissions-%F0%9F%94%96-blue?style=for-the-badge)
+
 
 Welcome to my GitHub! I'm a passionate IT student and developer who builds practical and impactful applications—from smooth user interfaces in **React**, to native **Android apps** in Java, and even **Windows desktop apps** using C# and WinForms. I love turning ideas into working solutions.
 
