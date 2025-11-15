@@ -72,6 +72,6 @@ Welcome to my GitHub! I'm a passionate IT student and developer who builds pract
 </p>
 
 ## Let's Connect!
-- 💼 LinkedIn: www.linkedin.com/in/reniel-baldove-331b10216
+- 💼 LinkedIn: www.linkedin.com/in/reniel-b-331b10216
 - 📧 Email: reniel.dev@gmail.com
 - 🌐 Portfolio Website (Coming Soon)
