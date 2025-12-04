@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a passionate IT student and developer who builds pract
 - ⭐ Participant - STI College Tagisan ng Talino: CODEFEST 2024 Cluster Level
 - 🏅 Champion - STI College `Marikina` Tagisan ng Talino: CODEFEST 2024 Local Level
 - 🏅 Champion - STI College `Marikina` Hackathon 2023
-- 🥇 1st Runner Up - STI College `???` Tagisan ng Talino: CODEFEST 2023 Local Level
+- 🥇 1st Runner Up - STI College `Marikina` Tagisan ng Talino: CODEFEST 2023 Local Level
 
 ## 🛠 Tech Stack
 
