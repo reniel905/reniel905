@@ -18,11 +18,11 @@ Welcome to my GitHub! I'm a passionate IT student and developer who builds pract
 
 - ⭐ Participant - UMak 14th IT Skills Olympics (Java Programming)
 - 🥈 2nd Runner Up - STI College Tagisan ng Talino: CODEFEST 2025 Cluster Level
-- 🏅 Champion - STI College `???` Tagisan ng Talino: CODEFEST 2025 Local Level
-- 🏅 Champion - STI College `???` Java Coding League 2024
+- 🏅 Champion - STI College `Marikina` Tagisan ng Talino: CODEFEST 2025 Local Level
+- 🏅 Champion - STI College `Marikina` Java Coding League 2024
 - ⭐ Participant - STI College Tagisan ng Talino: CODEFEST 2024 Cluster Level
-- 🏅 Champion - STI College `???` Tagisan ng Talino: CODEFEST 2024 Local Level
-- 🏅 Champion - STI College `???` Hackathon 2023
+- 🏅 Champion - STI College `Marikina` Tagisan ng Talino: CODEFEST 2024 Local Level
+- 🏅 Champion - STI College `Marikina` Hackathon 2023
 - 🥇 1st Runner Up - STI College `???` Tagisan ng Talino: CODEFEST 2023 Local Level
 
 ## 🛠 Tech Stack
