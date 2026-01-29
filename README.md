@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Reniel! ![Looking for Internship](https://img.shields.io/badge/Looking%20for-Internship-blue?style=flat-square)
 
-**`Full Stack & Android Developer`**
+**`Aspiring Software Engineer`**
 
 
 
