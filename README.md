@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Reniel! ![Looking for Internship](https://img.shields.io/badge/Looking%20for-Internship-blue?style=flat-square)
+# 👋 Hi, I'm Reniel! ![SAP ABAP Intern](https://img.shields.io/badge/SAP%20ABAP-Intern-blue?style=flat-square)
 
-**`Aspiring Software Engineer`**
+**`Aspiring Data Engineer || Backend Developer`**
 
 
 
@@ -73,6 +73,5 @@ Welcome to my GitHub! I'm a passionate IT student and developer who builds pract
 </p>
 
 ## Let's Connect!
-- 💼 LinkedIn: www.linkedin.com/in/reniel-b-331b10216
-- 📧 Email: reniel.dev@gmail.com
-- 🌐 Portfolio Website (Coming Soon)
+- 💼 LinkedIn: www.linkedin.com/in/reniel-baldove
+- 📧 Email: baldove.reniel905@gmail.com
