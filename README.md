@@ -2,10 +2,7 @@
 
 **`Aspiring Data Engineer || Backend Developer`**
 
-
-
 Welcome to my GitHub! I'm a passionate IT student and developer who builds practical and impactful applications—from smooth user interfaces in **React**, to native **Android apps** in Java, and even **Windows desktop apps** using C# and WinForms. I love turning ideas into working solutions.
-
 
 ## 🚀 About Me
 - **Capstone:** Improved Web Application for AT DIGITAL Marketing Services
@@ -28,51 +25,23 @@ Welcome to my GitHub! I'm a passionate IT student and developer who builds pract
 
 ## 🛠 Tech Stack
 
-#### Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-</p>
+#### 💻 Languages
+* **Primary:** Java, JavaScript, TypeScript, Python
+* **Other:** C#, HTML5, CSS3
 
-#### Frameworks & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="tailwindcss"/>
-          
-</p>
+#### 🏗️ Frameworks & Platforms
+* **Web:** React, Next.js, Node.js, TailwindCSS
+* **Mobile/Desktop:** Android (Java), .NET
 
-#### Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="MSSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-</p>
+#### 🗄️ Databases & Enterprise
+* **Databases:** MongoDB, MSSQL, MySQL
+* **Enterprise:** SAP (ABAP)
 
-#### Tools & IDEs
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="40" height="40" alt="npm"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="vercel"/>
-          
-          
-</p>
+#### 🔧 Tools & IDEs
+* **Version Control:** Git, GitHub
+* **IDEs:** Android Studio, IntelliJ, VS Code, Visual Studio
+* **Development Tools:** npm, Postman, Vercel, Vite
 
 ## Let's Connect!
-- 💼 LinkedIn: www.linkedin.com/in/reniel-baldove
+- 💼 LinkedIn: [www.linkedin.com/in/reniel-baldove](https://www.linkedin.com/in/reniel-baldove)
 - 📧 Email: baldove.reniel905@gmail.com
