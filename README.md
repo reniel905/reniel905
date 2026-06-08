@@ -45,4 +45,4 @@ Welcome to my GitHub! I'm a passionate IT student and developer who builds pract
 
 ## Let's Connect!
 - 💼 LinkedIn: [www.linkedin.com/in/reniel-baldove](https://www.linkedin.com/in/reniel-baldove)
-- 📧 Email: reniel.dev@gmail.com
+- 📧 Email: baldove.reniel905@gmail.com
