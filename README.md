@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate IT student and developer who builds pract
 - **Capstone:** Improved Web Application for AT DIGITAL Marketing Services
 - Always looking for better ways to solve real-world problems through code.
 - Currently learning more about system architecture, scalable design, and advanced full-stack development.
-- **Skilled in** `Java`, `JavaScript`, `TypeScript`, `C#`, `C++` `Python`, `React`, `Next.js`, `Android (Java)`, and `SAP ABAP`.
+- **Skilled in** `Java`, `JavaScript`, `TypeScript`, `C#`, `C++`, `Python`, `React`, `Next.js`, `Android (Java)`, and `SAP ABAP`.
 - Based in the **Philippines 🇵🇭**
 
 ## 🏆 Awards & Achievements
@@ -27,8 +27,8 @@ Welcome to my GitHub! I'm a passionate IT student and developer who builds pract
 ## 🛠 Tech Stack
 
 #### 💻 Languages
-* **Primary:** Java, JavaScript, TypeScript, Python
-* **Other:** C#, HTML5, CSS3
+* **Primary:** Java, JavaScript, TypeScript, C++
+* **Other:** C#, HTML5, CSS3, Python
 
 #### 🏗️ Frameworks & Platforms
 * **Web:** React, Next.js, Node.js, TailwindCSS
