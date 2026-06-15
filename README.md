@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Reniel! ![SAP ABAP Intern](https://img.shields.io/badge/SAP%20ABAP-Intern-blue?style=flat-square)
 
-**`Aspiring Data Engineer || Backend Developer`**
+**`Aspiring Software Engineer || Android Developer`**
 
 Welcome to my GitHub! I'm a passionate IT student and developer who builds practical and impactful applications—from smooth user interfaces in **React**, to native **Android apps** in Java, and even **Windows desktop apps** using C# and WinForms. I love turning ideas into working solutions.
 
