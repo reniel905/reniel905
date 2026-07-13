@@ -15,6 +15,7 @@ Welcome to my GitHub! I'm a passionate IT student and developer who builds pract
 - ⭐ Finalist - STI College Tagisan ng Talino: CODEFEST 2026 National Level
 - 🏅 Champion - STI College Tagisan ng Talino: CODEFEST 2026 Cluster Level
 - 🏅 Champion - STI College `Marikina` Tagisan ng Talino: CODEFEST 2026 Local Level
+- 🏅 Champion - STI College Marikina Valentine's Day ICT Society Event "Love.exe: Crack & Debug Challenge"
 - ⭐ Participant - UMak 14th IT Skills Olympics (Java Programming)
 - 🥈 2nd Runner Up - STI College Tagisan ng Talino: CODEFEST 2025 Cluster Level
 - 🏅 Champion - STI College `Marikina` Tagisan ng Talino: CODEFEST 2025 Local Level
