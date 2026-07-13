@@ -2,7 +2,7 @@
 
 **`Software Engineer | Backend Developer | Android Developer`**
 
-Welcome to my GitHub! I'm a passionate IT student and developer who builds practical and impactful applications—from smooth user interfaces in **React**, to native **Android apps** in Java, and even **Windows desktop apps** using C# and WinForms. I love turning ideas into working solutions.
+Welcome to my GitHub! I'm a passionate Software Engineeer who builds practical and impactful applications—from smooth user interfaces in **React**, to native **Android apps** in Java, and even **Windows desktop apps** using C# and WinForms. I love turning ideas into working solutions.
 
 ## 🚀 About Me
 - **Capstone:** Improved Web Application for AT DIGITAL Marketing Services
@@ -29,20 +29,20 @@ Welcome to my GitHub! I'm a passionate IT student and developer who builds pract
 
 #### 💻 Languages
 * **Primary:** Java, JavaScript, TypeScript, C++
-* **Other:** C#, HTML5, CSS3, Python
+* **Other:** C#, HTML5, CSS3, Python, Go
 
 #### 🏗️ Frameworks & Platforms
 * **Web:** React, Next.js, Node.js, TailwindCSS
 * **Mobile/Desktop:** Android (Java), .NET
 
 #### 🗄️ Databases & Enterprise
-* **Databases:** MongoDB, MSSQL, MySQL
+* **Databases:** MongoDB, MSSQL, MySQL, SQLite
 * **Enterprise:** SAP (ABAP)
 
 #### 🔧 Tools & IDEs
 * **Version Control:** Git, GitHub
 * **IDEs:** Android Studio, IntelliJ, VS Code, Visual Studio
-* **Development Tools:** npm, Postman, Vercel, Vite
+* **Development Tools:** npm, Postman, Vercel, Render, Vite, curl, Docker
 
 ## Let's Connect!
 - 💼 LinkedIn: [www.linkedin.com/in/reniel-baldove](https://www.linkedin.com/in/reniel-baldove)
