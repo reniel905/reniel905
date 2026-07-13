@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Reniel! ![SAP ABAP Intern](https://img.shields.io/badge/Software%20Engineer-Backend-blue?style=flat-square)
+# 👋 Hi, I'm Reniel! ![SAP ABAP Intern](https://img.shields.io/badge/Software%20Engineer-Backend-red?style=flat-square)
 
 **`Software Engineer | Backend Developer | Android Developer`**
 
